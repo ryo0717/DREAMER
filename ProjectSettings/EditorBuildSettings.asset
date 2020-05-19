@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TITLE.unity
+    guid: 9baa599212dff3542a6d05f735f4bb7c
+  - enabled: 1
+    path: Assets/Scenes/NAMING.unity
+    guid: 9fb32eb7ec0f45348801e2ea246e9a9c
+  - enabled: 1
+    path: Assets/Scenes/SCENARIO.unity
+    guid: b426023781afd4b419ef53fd272a2d3e
+  - enabled: 1
+    path: Assets/Scenes/ADVENTURE.unity
+    guid: ed879ae83f694d54d879b4aa921b1a15
+  - enabled: 1
+    path: Assets/Scenes/BATTLE.unity
+    guid: 4e5f2e93dca9a934b823ad3aa3ae74be
+  - enabled: 1
+    path: Assets/Scenes/STATUS.unity
+    guid: dd064da0c07c77c47b72dcb8c3909dfe
+  - enabled: 1
+    path: Assets/Scenes/STUFFED ROLL.unity
+    guid: 32e821497dbab84449928492253100a6
+  - enabled: 1
+    path: Assets/Scenes/RANKING.unity
+    guid: ce7cd9eade9db4a4ebe5362571ed9824
   m_configObjects: {}
